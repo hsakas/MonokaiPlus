@@ -1,0 +1,22 @@
+{
+    "name": "monokaiplus",
+    "displayName": "MonokaiPlus",
+    "description": "Entancements to Monokai theme you love!",
+    "version": "0.0.1",
+    "publisher": "algor",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MonokaiPlus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MonokaiPlus-color-theme.json"
+            }
+        ]
+    }
+}
