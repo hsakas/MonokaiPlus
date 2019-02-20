@@ -10,6 +10,23 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hsakas/MonokaiPlus.git"
+    },
+    "bugs": {
+        "url": "https://github.com/hsakas/MonokaiPlus/issues",
+        "email": "algortroy@gmail.com"
+    },
+    "keywords": [
+        "monokai",
+        "high-contrast",
+        "theme",
+        "color-theme"
+    ],
+    "maintainers": [
+        "Akash S <algortroy@gmail.com>"
+    ],
     "contributes": {
         "themes": [
             {
