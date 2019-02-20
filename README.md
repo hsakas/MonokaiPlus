@@ -9,7 +9,7 @@ Font used: Hack,
 Looks good with: Rainbow Brackets
 
 ## Screenshot
-![Theme Screenshot](https://github.com/hsakas/MonokaiPlus/blob/master/screenshot.png)
+![Theme Screenshot](https://github.com/hsakas/MonokaiPlus/blob/master/screenshot.PNG)
 
 <!-- 
 ![alt text](https://github.com/hsakas/MonokaiPlus/blob/master/screenshot.PNG) -->
