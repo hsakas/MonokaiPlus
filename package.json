@@ -1,7 +1,7 @@
 {
     "name": "monokaiplus",
     "displayName": "MonokaiPlus",
-    "description": "Entancements to Monokai theme you love!",
+    "description": "A high-contrast Monokai with focus on visibility and clean colors!",
     "version": "0.1.0",
     "publisher": "algor",
     "engines": {
