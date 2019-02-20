@@ -20,4 +20,5 @@ algor
 ## Questions or Feedback:
 Send it to algortroy@gmail.com will be happy to look into it.
 
-**Enjoy!**
+## Licence
+MIT
