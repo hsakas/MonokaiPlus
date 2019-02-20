@@ -5,7 +5,7 @@ A high-contrast Monokai with focus on visibility and clean colors!
 
 Press Ctrl+K Ctrl+T and select MonokaiPlus to activate
 
-Font used: Hack
+Font used: Hack,
 Looks good with: Rainbow Brackets
 
 ## Screenshot
