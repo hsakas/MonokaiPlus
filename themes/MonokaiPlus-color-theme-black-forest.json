@@ -1,6 +1,5 @@
 {
-	"tokenColors": [
-		{
+	"tokenColors": [{
 			"settings": {
 				"background": "#272822",
 				"foreground": "#ffffff"
@@ -17,7 +16,7 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#f5dd06"
+				"foreground": "#b9a703"
 			}
 		},
 		{
@@ -55,7 +54,7 @@
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#fa015c"
+				"foreground": "#b60345"
 			}
 		},
 		{
@@ -63,7 +62,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#fa065f"
+				"foreground": "#b60345"
 			}
 		},
 		{
@@ -175,54 +174,75 @@
 		}
 	],
 	"colors": {
-		"statusBar.background": "#1e1f1e",
-		"statusBar.border": "#486d6d",
-		"statusBarItem.hoverBackground": "#465a5a",
-		"statusBarItem.activeBackground": "#465a5a",
-		"editor.background": "#1e1f1e",
-		"tab.activeBackground": "#486d6d",
-		"tab.inactiveBackground": "#1e1f1e",
-		"titleBar.border": "#486d6d",
-		"titleBar.activeBackground": "#1e1f1e",
-		"statusBar.noFolderBackground": "#486d6d",
-		"statusBar.debuggingBackground": "#486d6d",
-		"sideBar.background": "#1e1f1e",
-		"sideBar.border": "#486d6d",
-		"sideBarSectionHeader.background": "#486d6d",
-		"sideBarSectionHeader.border": "#486d6d",
-		"badge.background": "#486d6d",
-		"activityBar.background": "#1e1f1e",
-		"activityBar.border": "#486d6d",
-		"menu.border": "#486d6d",
-		"menu.selectionBackground": "#486d6d",
-		"menu.background": "#1e1f1e",
-		"menubar.selectionBackground": "#486d6d",
-		"terminal.background": "#1e1f1e",
-		"terminal.border": "#486d6d",
-		"button.background": "#486d6d",
-		"dropdown.background": "#1e1f1e",
-		"dropdown.border": "#486d6d",
-		"dropdown.listBackground": "#486d6d",
-		"input.border": "#486d6d",
-		"input.background": "#1e1f1e",
-		"scrollbar.shadow": "#486d6d",
-		"listFilterWidget.background": "#1e1f1e",
-		"list.hoverBackground": "#486d6d",
-		"list.activeSelectionBackground": "#486d6d",
-		"list.inactiveFocusBackground": "#486d6d",
-		"editorWidget.border": "#486d6d",
-		"editorWidget.background": "#1e1f1e",
-		"editorHoverWidget.background": "#1e1f1e",
-		"panel.background": "#1e1f1e",
-		"panel.border": "#486d6d",
-		"panelTitle.activeBorder": "#486d6d",
-		"activityBar.dropBackground": "#486d6d",
-		"activityBarBadge.background": "#486d6d",
-		"tab.border": "#486d6d",
-		"notificationCenter.border": "#486d6d",
-		"notificationToast.border": "#486d6d",
-		"debugToolBar.background": "#1e1f1e",
-		"debugToolBar.border": "#486d6d"
+		"focusBorder": "#416135",
+		"statusBar.background": "#070707",
+		"statusBar.border": "#416135",
+		"statusBarItem.hoverBackground": "#416135",
+		"statusBarItem.activeBackground": "#416135",
+		"editor.background": "#070707",
+		"tab.activeBackground": "#416135",
+		"tab.inactiveBackground": "#070707",
+		"titleBar.border": "#416135",
+		"titleBar.activeBackground": "#070707",
+		"statusBar.noFolderBackground": "#416135",
+		"statusBar.debuggingBackground": "#416135",
+		"sideBar.background": "#070707",
+		"sideBar.border": "#416135",
+		"sideBarSectionHeader.background": "#416135",
+		"sideBarSectionHeader.border": "#416135",
+		"badge.background": "#416135",
+		"activityBar.background": "#070707",
+		"activityBar.border": "#416135",
+		"menu.border": "#416135",
+		"menu.selectionBackground": "#416135",
+		"menu.background": "#070707",
+		"menubar.selectionBackground": "#416135",
+		"terminal.background": "#070707",
+		"terminal.border": "#416135",
+		"button.background": "#416135",
+		"dropdown.background": "#070707",
+		"dropdown.border": "#416135",
+		"dropdown.listBackground": "#416135",
+		"input.border": "#416135",
+		"input.background": "#070707",
+		"scrollbar.shadow": "#416135",
+		"listFilterWidget.background": "#070707",
+		"list.hoverBackground": "#416135",
+		"list.activeSelectionBackground": "#416135",
+		"list.inactiveFocusBackground": "#416135",
+		"editorWidget.border": "#416135",
+		"editorWidget.background": "#070707",
+		"editorHoverWidget.background": "#070707",
+		"panel.background": "#070707",
+		"panel.border": "#416135",
+		"panelTitle.activeBorder": "#416135",
+		"activityBar.dropBackground": "#416135",
+		"activityBarBadge.background": "#416135",
+		"tab.border": "#416135",
+		"notificationCenter.border": "#416135",
+		"notificationToast.border": "#416135",
+		"debugToolBar.background": "#070707",
+		"debugToolBar.border": "#416135",
+		"breadcrumb.focusForeground": "#ffffff",
+		"menu.foreground": "#ffffff",
+		"statusBar.foreground": "#ffffff",
+		"menubar.selectionForeground": "#ffffff",
+		"sideBar.foreground": "#ffffff",
+		"terminal.foreground": "#ffffff",
+		"editorCursor.foreground": "#ffffff",
+		"tab.inactiveForeground": "#ffffff",
+		"menu.selectionForeground": "#ffffff",
+		"badge.foreground": "#ffffff",
+		"activityBarBadge.foreground": "#ffffff",
+		"breadcrumb.activeSelectionForeground": "#ffffff",
+		"activityBar.foreground": "#416135",
+		"activityBar.inactiveForeground": "#ffffff",
+		"dropdown.foreground": "#ffffff",
+		"widget.shadow": "#416135",
+		"panelTitle.activeForeground": "#ffffff",
+		"tab.hoverBorder": "#ffffff",
+		"editorLineNumber.activeForeground": "#ffffff",
+		"menu.separatorBackground": "#ffffff",
 	},
 	"name": "MonokaiPlus"
 }

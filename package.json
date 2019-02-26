@@ -30,11 +30,55 @@
         "Akash S <algortroy@gmail.com>"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "MonokaiPlus",
+        "themes": [{
+                "label": "Monokai Plus - Light Teal",
                 "uiTheme": "vs-dark",
-                "path": "./themes/MonokaiPlus-color-theme.json"
+                "path": "./themes/MonokaiPlus-color-theme-light-teal.json"
+            },
+            {
+                "label": "Monokai Plus - Dark Teal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MonokaiPlus-color-theme-dark-teal.json"
+            },
+            {
+                "label": "Monokai Plus - Disney Pink",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MonokaiPlus-color-theme-disney-pink.json"
+            },
+            {
+                "label": "Monokai Plus - Disney Pink",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MonokaiPlus-color-theme-disney-pink.json"
+            },
+            {
+                "label": "Monokai Plus - Black Forest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MonokaiPlus-color-theme-black-forest.json"
+            },
+            {
+                "label": "Monokai Plus - Sunny Side",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MonokaiPlus-color-theme-sunny-side.json"
+            },
+            {
+                "label": "Monokai Plus - Cyber Yellow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MonokaiPlus-color-theme-cyber-yellow.json"
+            },
+            {
+                "label": "Monokai Plus - Slate",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MonokaiPlus-color-theme-slate.json"
+            },
+            {
+                "label": "Monokai Plus - Angry Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MonokaiPlus-color-theme-angry-red.json"
+            },
+            {
+                "label": "Monokai Plus - Chalk White",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MonokaiPlus-color-theme-chalk-white.json"
             }
         ]
     }
