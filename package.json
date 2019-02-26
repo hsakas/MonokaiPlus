@@ -2,7 +2,7 @@
     "name": "monokaiplus",
     "displayName": "MonokaiPlus",
     "description": "A high-contrast Monokai with focus on visibility and clean colors!",
-    "version": "0.6.0",
+    "version": "1.0.0",
     "publisher": "algor",
     "engines": {
         "vscode": "^1.31.0"
@@ -30,7 +30,8 @@
         "Akash S <algortroy@gmail.com>"
     ],
     "contributes": {
-        "themes": [{
+        "themes": [
+            {
                 "label": "Monokai Plus - Light Teal",
                 "uiTheme": "vs-dark",
                 "path": "./themes/MonokaiPlus-color-theme-light-teal.json"
