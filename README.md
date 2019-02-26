@@ -3,12 +3,12 @@
 ## Description:
 A high-contrast Monokai with focus on visibility and clean colors!
 
-Press Ctrl+K Ctrl+T and select MonokaiPlus to activate
+Press Ctrl+K Ctrl+T and type Monokai Plus and select your desired theme
 
 Font used: Hack,
-Looks good with: Rainbow Brackets
+Looks good with: Bracket Pair Colorizer
 
-## Screenshot
+## Screenshots
 
 ### Light Teal
 ![Screenshots](https://github.com/hsakas/MonokaiPlus/raw/master/screenshots/light-teal-screenshot.PNG)

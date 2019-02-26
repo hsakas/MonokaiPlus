@@ -30,8 +30,7 @@
         "Akash S <algortroy@gmail.com>"
     ],
     "contributes": {
-        "themes": [
-            {
+        "themes": [{
                 "label": "Monokai Plus - Light Teal",
                 "uiTheme": "vs-dark",
                 "path": "./themes/MonokaiPlus-color-theme-light-teal.json"
@@ -40,11 +39,6 @@
                 "label": "Monokai Plus - Dark Teal",
                 "uiTheme": "vs-dark",
                 "path": "./themes/MonokaiPlus-color-theme-dark-teal.json"
-            },
-            {
-                "label": "Monokai Plus - Disney Pink",
-                "uiTheme": "vs-dark",
-                "path": "./themes/MonokaiPlus-color-theme-disney-pink.json"
             },
             {
                 "label": "Monokai Plus - Disney Pink",
