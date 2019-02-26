@@ -9,7 +9,34 @@ Font used: Hack,
 Looks good with: Rainbow Brackets
 
 ## Screenshot
-![Theme Screenshot](https://github.com/hsakas/MonokaiPlus/raw/master/screenshot.PNG)
+
+### Light Teal
+![Screenshots](https://github.com/hsakas/MonokaiPlus/raw/master/screenshots/light-teal-screenshot.PNG)
+
+### Dark Teal
+![Screenshots](https://github.com/hsakas/MonokaiPlus/raw/master/screenshots/dark-teal-screenshot.PNG)
+
+### Black Forest
+![Screenshots](https://github.com/hsakas/MonokaiPlus/raw/master/screenshots/black-forest-screenshot.PNG)
+
+### Cyber Yellow
+![Screenshots](https://github.com/hsakas/MonokaiPlus/raw/master/screenshots/cyber-yellow-shreenshot.PNG)
+
+### Sunny Side
+![Screenshots](https://github.com/hsakas/MonokaiPlus/raw/master/screenshots/sunny-side-screenshot.PNG)
+
+### Disney Pink
+![Screenshots](https://github.com/hsakas/MonokaiPlus/raw/master/screenshots/disney-pink-screenshot.PNG)
+
+### Angry Red
+![Screenshots](https://github.com/hsakas/MonokaiPlus/raw/master/screenshots/angry-red-screenshot.PNG)
+
+### Chalk White
+![Screenshots](https://github.com/hsakas/MonokaiPlus/raw/master/screenshots/chalk-white-screenshot.PNG)
+
+### Slate
+![Screenshots](https://github.com/hsakas/MonokaiPlus/raw/master/screenshots/slate-screenshot.PNG)
+
 
 ## Author: 
 algor
