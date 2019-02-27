@@ -30,8 +30,7 @@
         "Akash S <algortroy@gmail.com>"
     ],
     "contributes": {
-        "themes": [
-            {
+        "themes": [{
                 "label": "Monokai Plus - Light Teal",
                 "uiTheme": "vs-dark",
                 "path": "./themes/MonokaiPlus-color-theme-light-teal.json"
@@ -68,6 +67,11 @@
             },
             {
                 "label": "Monokai Plus - Angry Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MonokaiPlus-color-theme-angry-red.json"
+            },
+            {
+                "label": "Monokai Plus - Calm Red",
                 "uiTheme": "vs-dark",
                 "path": "./themes/MonokaiPlus-color-theme-angry-red.json"
             },
